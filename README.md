@@ -35,4 +35,8 @@ Found something you love? Easily add recipes to your **favorites list** so you c
 
 ## 🚀 Tech Stack  
 - **Frontend**: Kotlin (Android Studio)  
-- **Design**: Pastel theme with clean and modern UI/UX principles  
+- **Design**: Pastel theme with clean and modern UI/UX principles
+
+## 📌 About the Team  
+Built with ❤️ by me & my nab
+
