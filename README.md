@@ -1,4 +1,4 @@
-# 🍳 ChefJuna – Your Smart Cooking Companion
+# 🍳 ChefJuna – Discover, Learn, and Cook Like a Master Chef
 
 **ChefJuna** is a mobile application designed to help users discover, explore, and try out a wide variety of healthy and delicious recipes — all wrapped in a modern, user-friendly interface. Whether you're a beginner in the kitchen or a seasoned home cook, ChefJuna offers a seamless and inspiring culinary experience.
 
